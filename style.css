@@ -1,0 +1,29 @@
+body {
+  background-color: gray;
+}
+
+a {
+  text-decoration: none;
+  background-color: white;
+  
+}
+
+nav {
+  background-color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  
+}
+
+/* Classes */
+
+.menu ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu li {
+  list-style: none;
+}
